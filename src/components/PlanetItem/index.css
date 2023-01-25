@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.planent-items-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-heading {
+  color: #f8fafc;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+
+.item-discription {
+  color: #f1f5f9;
+  font-size: 20px;
+  font-weight: 200;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.item-image {
+  max-width: 400px;
+  height: 400px;
+}
